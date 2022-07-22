@@ -10,6 +10,16 @@ d = {
     "email":"siddharthadeb92@gmil.com",
     "surname" : "deb"
 }
+d = {
+    "name" : "siddhartha",
+    "email":"siddharthadeb92@gmil.com",
+    "surname" : "deb"
+}
+d = {
+    "name" : "siddhartha",
+    "email":"siddharthadeb92@gmil.com",
+    "surname" : "deb"
+}
 
 db1 = client['mongotest']
 #collection
